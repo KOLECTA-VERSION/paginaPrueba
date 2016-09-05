@@ -6,6 +6,7 @@ and open the template in the editor.
 -->
 <html>
     <head>
+        <!-- Estoy poniendo un comentario para hacer una prueba -->
         <meta charset="UTF-8">
         <title></title>
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
