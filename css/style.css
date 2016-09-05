@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+
+}
+h1{
+    padding: 2%;
+    color: #ff66cc;
+}
+p{
+    padding: 10px 30px 30px 30px;
+}
+a{
+    padding: 10px 30px 30px 30px;
+    text-decoration: none;
+    color: #ff66cc;
+    font-weight: bolder;
+    text-decoration: underline;     
+}
+header{
+    background: #222;
+    padding: 30px 0;
+    //position: absolute;
+    width: 100%;
+    top: 0;   
+}
+footer{
+    background: #222;
+    padding: 50px 0;
+    position: absolute;
+    width: 100%;
+    bottom: 0;   
+}
+footer p{
+    color: white;
+    text-align: center;
+}
